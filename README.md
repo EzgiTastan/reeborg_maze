@@ -8,7 +8,7 @@ Reeborg, the robot, finds itself in a dark maze with a depleted flashlight batte
 The challenge is to guide Reeborg to the maze's exit using an if/elif/else statement logic. </br>
 Reeborg must follow along the right edge of the maze, turning right whenever possible, moving straight ahead if it can't turn right, and turning left as a last resort.
 
-
+![Screenshot_1](https://github.com/EzgiTastan/reeborg_maze/assets/139014781/cb1dfdc2-fb94-4fca-8644-4294aeabfdec)
 
 ## What you need to know
 Well, first, this website is amazing. I've used it for approximately 10 times while teaching a kid Python. Since it is interactive and it enables you to see the result of your code step by step, it is definitely one of the best websites that I would suggest to anyone who teaches python.
@@ -22,7 +22,3 @@ To use this maze solver program:
 2. Clone this repository to your local machine.
 3. Open the project directory in your preferred Python IDE or text editor.
 4. Run the `main.py` script.
-
-## Acknowledgments
-Special thanks to Reeborg's World for providing the interactive programming environment used in this project.
-
