@@ -4,7 +4,7 @@ This Python project aims to solve maze problem using a classical one: [Reeborg's
 In this website, you can experience a virtual environment where users can program a robot to navigate through mazes.
 
 ## Lost in a Maze!
-Reeborg, the robot, finds itself in a dark maze with a depleted flashlight battery. </br>
+Reeborg -the robot- finds itself in a dark maze with a depleted flashlight battery. </br>
 The challenge is to guide Reeborg to the maze's exit using an if/elif/else statement logic. </br>
 Reeborg must follow along the right edge of the maze, turning right whenever possible, moving straight ahead if it can't turn right, and turning left as a last resort.
 
